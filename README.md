@@ -1,4 +1,5 @@
-## Clothing E-Commerce
+# Crwn Clothing 🛒
+### Clothing e-commerce
 
 ![crwn-clothing](https://i.ibb.co/KbnjPxv/Screen-Shot-2020-10-26-at-03-41-33.png)
 
